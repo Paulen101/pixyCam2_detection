@@ -56,4 +56,18 @@ Pixy2 is an advanced vision sensor designed for robotics applications, capable o
    - Debug and configure Pixy2 using the PixyMon application on Windows, MacOS, or Linux.
 
 
+## Example
+
+### Pixy2 Signature Setup on PixyMon (PixyCam Software)
+
+![PixtMon Example](/Image/Pixy_Mon.png)
+
+When detecting red objects, the Pixy2 camera will output the following data:
+
+![Pixy2 Example](/Image/Signature_6.png)
+
+When detecting green objects, the Pixy2 camera will output the following data:
+![Pixy2 Example](/Image/Signature_7.png)
+
+
 For detailed information, refer to the [Pixy2 Documentation](https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:start).
